@@ -1,8 +1,34 @@
 {
+  "name": "vacation-auto-mailer",
+  "version": "1.0.0",
+  "description": "This script automates Gmail auto-replies with OAuth2 authentication, Gmail API, and Express.",
+  "keywords": [
+    "automation",
+    "email",
+    "node.js",
+    "react",
+    "gmail",
+    "mail",
+    "javascript",
+    "google-api",
+    "api-integration",
+    "vacation-responder",
+    "mail-automation",
+    "thread-management",
+    "github",
+    "open-source",
+    "productivity-tool",
+    "inbox-management",
+    "tech-stack",
+    "email-thread",
+    "reply-automation",
+    "github-project"
+  ],
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "googleapis": "^129.0.0",
     "nodemon": "^3.0.2"
-  }
+  },
+  // ... other fields
 }
