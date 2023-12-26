@@ -38,5 +38,7 @@
 
 <p>Congratulations! You have successfully set up the Vacation Auto Mailer with Node.js and Gmail API. Customize the code
     to meet your specific requirements.</p>
+    
+![Untitled-2023-12-26-1056](https://github.com/Ratnesh125/vacation-auto-mailer/assets/87529730/ada1fa22-d932-4112-a5eb-59efcebd2719)
 
 <p>Happy coding!</p>
