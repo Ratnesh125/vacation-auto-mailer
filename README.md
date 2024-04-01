@@ -1,5 +1,5 @@
 <h1>Vacation Auto Mailer</h1>
-
+video link : https://drive.google.com/file/d/1qVGltm25DpPELjvr7P-yrBsvD7vyYxrX/view?usp=sharing
 <p>This repository contains the code for a Vacation Auto Mailer implemented with Google Gmail API and Node.js server.
 </p>
 
